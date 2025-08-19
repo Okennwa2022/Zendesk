@@ -11,7 +11,7 @@ Step-by-step guide on how to create a new support ticket in Zendesk.
 
 ### 2. Adding a Team Member  
 Demonstration of how to add a new agent or admin to Zendesk.  
-![Adding a Team Member](https://i.imgur.com/6RVN1Bg.jpg)
+![Adding a Team Member]<blockquote class="imgur-embed-pub" lang="en" data-id="a/lhVshYJ"  ><a href="//imgur.com/a/lhVshYJ">adding team member on Zendesk</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---
 
